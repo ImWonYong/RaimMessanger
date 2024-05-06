@@ -1,13 +1,13 @@
-package monster.unyong.ramimessenger;
+package monster.unyong.raimmessenger;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RamimessengerApplication {
+public class RaimmessengerApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(RamimessengerApplication.class, args);
+        SpringApplication.run(RaimmessengerApplication.class, args);
     }
 
 }
